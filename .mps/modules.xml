@@ -3,7 +3,6 @@
   <component name="MPSProject">
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/AdamizadLanguage/AdamizadLanguage.mpl" folder="" />
-      <modulePath path="$PROJECT_DIR$/languages/AdamizadLanguage/runtime/AdamizadLanguage.runtime.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/AdamizadLanguage/sandbox/AdamizadLanguage.sandbox.msd" folder="" />
     </projectModules>
   </component>
