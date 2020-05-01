@@ -4,6 +4,7 @@
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/AdamizadLanguage/AdamizadLanguage.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/AdamizadLanguage/sandbox/AdamizadLanguage.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/AdamizadLanguage.build4/AdamizadLanguage.build.msd" folder="" />
     </projectModules>
   </component>
 </project>

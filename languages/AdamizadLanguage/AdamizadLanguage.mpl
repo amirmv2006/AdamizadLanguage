@@ -79,9 +79,6 @@
     <module reference="ceab5195-25ea-4f22-9b92-103b95ca8c0c(jetbrains.mps.lang.core)" version="0" />
     <module reference="a9e4c532-c5f5-4bb7-99ef-42abb73bbb70(jetbrains.mps.lang.descriptor.aspects)" version="0" />
   </dependencyVersions>
-  <runtime>
-    <dependency reexport="false">b6b1350a-3cfc-435b-9b82-a82769094315(AdamizadLanguage.runtime)</dependency>
-  </runtime>
   <extendedLanguages />
 </language>
 
